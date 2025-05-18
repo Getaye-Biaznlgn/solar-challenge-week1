@@ -1,5 +1,5 @@
-# Solar Challenge
-
+#  Exploring, and analyzing solar farm data found in Benin, Sierra Leone, and Togo.
+### It aims to develop a strategic approach to significantly enhance solar company operational efficiency and sustainability through targeted solar investments. 
 ## Environment Setup
 
 ### Prerequisites
